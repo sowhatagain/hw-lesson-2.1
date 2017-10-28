@@ -1,8 +1,8 @@
-Решение:
+Р РµС€РµРЅРёРµ:
 
-1) Задача "Титаник" Kaggle.  
-решение: titanik_tree_and_classification.ipynb
-файл сабмита: submit.csv
+1) РўРёС‚Р°РЅРёРє:
+titanik_tree_and_classification.ipynb
+СЃР°Р±РјРёС‚ РІС‹РіСЂСѓР¶РµРЅ РІ СЌС‚Сѓ Р¶Рµ РїР°РїРєСѓ
 
-2) Задача auc-roc и auc-pr(c)
-решение AUC-ROC and AUC-PR(C).ipynb
+2) AUC-ROC Рё AUC-PRC
+AUC-ROC and AUC-PR(C).ipynb
